@@ -20,14 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc8d6ec2-87ca-4bef-a831-0a8d215ab74f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/ICommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ICommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Comanda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Comanda/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TVOnCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TVOnCommand.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/tv.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/tv.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +40,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/ICommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Cat.cs" />
-        <option value="$PROJECT_DIR$/Assets/TVOnCommand.cs" />
-        <option value="$PROJECT_DIR$/Assets/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/tv.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/TVOnCommand.cs" />
       </list>
     </option>
   </component>
@@ -89,6 +87,7 @@
       <updated>1681557445434</updated>
       <workItem from="1681557447593" duration="1338000" />
       <workItem from="1681558818699" duration="2530000" />
+      <workItem from="1681564285155" duration="3189000" />
     </task>
     <servers />
   </component>
